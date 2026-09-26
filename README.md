@@ -1,4 +1,4 @@
-# Ahanaf Mokammel Omi - 3D Portfolio
+# about ahanaf
 
 <div align="center">
 

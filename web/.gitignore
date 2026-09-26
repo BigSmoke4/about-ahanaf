@@ -1,0 +1,21 @@
+node_modules
+dist
+dist-ssr
+*.tsbuildinfo
+.DS_Store
+*.local
+.vite
+.playwright-mcp
+*.log
+
+# 作品媒体（视频/大图）：体积大且属个人内容，不入 git。
+# 仅保留板块封面占位图（public/works/covers/），其余媒体请自行放置或走 CDN。
+public/works/*
+!public/works/covers/
+
+# 压缩脚本日志
+scripts/compress-media.log
+
+# 本地工具与部署产物（含本地路径/服务器信息，不入库）
+.claude/
+deploy/

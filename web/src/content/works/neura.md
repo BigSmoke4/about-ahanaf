@@ -1,6 +1,6 @@
 ---
 title: NEURA — Neural AI Agent Orchestration & Continuity Platform
-banner: /works/neura/banner.jpg
+banner: /works/covers/neura.jpg
 year: 2025
 role: Full-Stack Developer
 tags: [AI Orchestration, Multi-Agent, OpenAI, Anthropic, SignalR]

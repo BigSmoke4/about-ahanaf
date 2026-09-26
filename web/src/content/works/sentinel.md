@@ -1,6 +1,6 @@
 ---
 title: SENTINEL — Enterprise Operational Risk & Resilience Simulator
-banner: /works/sentinel/banner.jpg
+banner: /works/covers/sentinel.jpg
 year: 2025
 role: Full-Stack Developer
 tags: [Risk Simulation, Graph Analysis, Monte Carlo, ASP.NET Core]

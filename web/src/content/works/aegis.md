@@ -1,6 +1,6 @@
 ---
 title: AEGIS — Intelligent Incident Response & Digital Operations Platform
-banner: /works/aegis/banner.jpg
+banner: /works/covers/aegis.jpg
 year: 2025
 role: Full-Stack Developer
 tags: [SRE, AIOps, Incident Response, ASP.NET Core]

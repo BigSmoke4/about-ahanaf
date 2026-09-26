@@ -1,6 +1,6 @@
 ---
 title: Responsive E-Commerce Application
-banner: /works/ecommerce/banner.jpg
+banner: /works/covers/ecommerce.jpg
 year: 2024
 role: Full-Stack Developer
 tags: [E-Commerce, ASP.NET MVC, Razor Views, SQL Server]

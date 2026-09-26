@@ -1,6 +1,6 @@
 ---
 title: Local Agent Platform — Local-First Autonomous Coding Platform
-banner: /works/local-agent/banner.jpg
+banner: /works/covers/local-agent.jpg
 year: 2025
 role: Full-Stack Developer
 tags: [Local AI, Ollama, Roslyn, Autonomous Coding]

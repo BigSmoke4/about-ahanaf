@@ -1,6 +1,6 @@
 ---
 title: VERITAS — Enterprise Identity & Access Governance Platform
-banner: /works/veritas/banner.jpg
+banner: /works/covers/veritas.jpg
 year: 2025
 role: Full-Stack Developer
 tags: [Identity Management, Zero-Trust, ASP.NET Core, Authorization]

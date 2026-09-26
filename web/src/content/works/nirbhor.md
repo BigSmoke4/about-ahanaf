@@ -1,6 +1,6 @@
 ---
 title: NIRBHOR — Bilingual AI Personal Administrative Agent
-banner: /works/nirbhor/banner.jpg
+banner: /works/covers/nirbhor.jpg
 year: 2025
 role: Full-Stack Developer
 tags: [AI Agent, Bilingual, NLP, Anthropic, SignalR]

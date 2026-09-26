@@ -1,6 +1,6 @@
 ---
 title: FORGE — AI Software Engineering Intelligence Platform
-banner: /works/forge/banner.jpg
+banner: /works/covers/forge.jpg
 year: 2025
 role: Full-Stack Developer
 tags: [Software Engineering, Roslyn, Code Analysis, AI]

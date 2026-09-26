@@ -1,6 +1,6 @@
 ---
 title: NEXUS — Supply-Chain Intelligence Command Center
-banner: /works/nexus/banner.jpg
+banner: /works/covers/nexus.jpg
 year: 2025
 role: Full-Stack Developer
 tags: [Supply Chain, AI, Graph Intelligence, ASP.NET Core]

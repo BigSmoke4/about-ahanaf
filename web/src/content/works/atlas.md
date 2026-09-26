@@ -1,6 +1,6 @@
 ---
 title: ATLAS — Enterprise Intelligent API & Event Platform
-banner: /works/atlas/banner.jpg
+banner: /works/covers/atlas.jpg
 year: 2025
 role: Full-Stack Developer
 tags: [API Management, Kafka, Enterprise Architecture, .NET 9]

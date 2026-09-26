@@ -345,19 +345,19 @@ export const WORKS: Record<'zh' | 'en', WorksLang> = {
 // Section cover images (full-height cover on left side of each card in horizontal gallery). Place in public/works/covers/.
 // When image missing, left column uses large number gradient placeholder, auto-lights up after adding image.
 export const SECTION_COVERS: Record<string, string> = {
-  nexus: `${import.meta.env.BASE_URL}works/nexus/banner.jpg`,
-  veritas: `${import.meta.env.BASE_URL}works/veritas/banner.jpg`,
-  neura: `${import.meta.env.BASE_URL}works/neura/banner.jpg`,
-  forge: `${import.meta.env.BASE_URL}works/forge/banner.jpg`,
-  pulse: `${import.meta.env.BASE_URL}works/pulse/banner.jpg`,
-  bdpricefinder: `${import.meta.env.BASE_URL}works/bdpricefinder/banner.jpg`,
-  'local-agent': `${import.meta.env.BASE_URL}works/local-agent/banner.jpg`,
-  atlas: `${import.meta.env.BASE_URL}works/atlas/banner.jpg`,
-  aurora: `${import.meta.env.BASE_URL}works/aurora/banner.jpg`,
-  sentinel: `${import.meta.env.BASE_URL}works/sentinel/banner.jpg`,
-  aegis: `${import.meta.env.BASE_URL}works/aegis/banner.jpg`,
-  nirbhor: `${import.meta.env.BASE_URL}works/nirbhor/banner.jpg`,
-  ecommerce: `${import.meta.env.BASE_URL}works/ecommerce/banner.jpg`,
+  nexus: `${import.meta.env.BASE_URL}works/covers/nexus.jpg`,
+  veritas: `${import.meta.env.BASE_URL}works/covers/veritas.jpg`,
+  neura: `${import.meta.env.BASE_URL}works/covers/neura.jpg`,
+  forge: `${import.meta.env.BASE_URL}works/covers/forge.jpg`,
+  pulse: `${import.meta.env.BASE_URL}works/covers/pulse.jpg`,
+  bdpricefinder: `${import.meta.env.BASE_URL}works/covers/bdpricefinder.jpg`,
+  'local-agent': `${import.meta.env.BASE_URL}works/covers/local-agent.jpg`,
+  atlas: `${import.meta.env.BASE_URL}works/covers/atlas.jpg`,
+  aurora: `${import.meta.env.BASE_URL}works/covers/aurora.jpg`,
+  sentinel: `${import.meta.env.BASE_URL}works/covers/sentinel.jpg`,
+  aegis: `${import.meta.env.BASE_URL}works/covers/aegis.jpg`,
+  nirbhor: `${import.meta.env.BASE_URL}works/covers/nirbhor.jpg`,
+  ecommerce: `${import.meta.env.BASE_URL}works/covers/ecommerce.jpg`,
 }
 
 // Count works in a section (sum of items or groups), used for index row hover display

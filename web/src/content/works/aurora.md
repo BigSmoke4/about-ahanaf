@@ -1,6 +1,6 @@
 ---
 title: AURORA — Organizational Resilience & Decision Intelligence
-banner: /works/aurora/banner.jpg
+banner: /works/covers/aurora.jpg
 year: 2025
 role: Full-Stack Developer
 tags: [Digital Twin, Decision Intelligence, Graph Analysis, ASP.NET Core]

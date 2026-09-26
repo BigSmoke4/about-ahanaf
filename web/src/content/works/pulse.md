@@ -1,6 +1,6 @@
 ---
 title: PULSE — Distributed Job Processing & Workflow Platform
-banner: /works/pulse/banner.jpg
+banner: /works/covers/pulse.jpg
 year: 2025
 role: Full-Stack Developer
 tags: [Distributed Systems, RabbitMQ, Job Orchestration, ASP.NET Core]

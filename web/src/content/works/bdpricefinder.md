@@ -1,6 +1,6 @@
 ---
 title: BDPriceFinder — Multi-Vendor E-Commerce & Price Comparison Platform
-banner: /works/bdpricefinder/banner.jpg
+banner: /works/covers/bdpricefinder.jpg
 year: 2024
 role: Full-Stack Developer
 tags: [E-Commerce, ASP.NET MVC, Multi-Vendor, Marketplace]

@@ -10,9 +10,8 @@ dist-ssr
 
 # 作品媒体（视频/大图）：体积大且属个人内容，不入 git。
 # 仅保留板块封面占位图（public/works/covers/），其余媒体请自行放置或走 CDN。
-# Note: Commented out to allow work images to be committed to GitHub
-# public/works/*
-# !public/works/covers/
+public/works/*
+!public/works/covers/
 
 # 压缩脚本日志
 scripts/compress-media.log
